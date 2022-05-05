@@ -46,7 +46,19 @@ section-titles: true
 
 ##
 
-![рис.3](image/3.png)
+![рис.3](image/11.png)
+
+##
+
+![рис.4](image/12.png)
+
+##
+
+![рис.5](image/13.png)
+
+##
+
+![рис.6](image/14.png)
 
 ##
 
@@ -56,11 +68,11 @@ section-titles: true
 
 ##
 
-![рис.4](image/4.png)
+![рис.7](image/4.png)
 
 ##
 
-![рис.5](image/5.png)
+![рис.8](image/5.png)
 
 ##
 
@@ -70,11 +82,11 @@ section-titles: true
 
 ##
 
-![рис.6](image/6.png)
+![рис.9](image/6.png)
 
 ##
 
-![рис.7](image/7.png)
+![рис.10](image/7.png)
 
 ##
 
@@ -85,12 +97,11 @@ section-titles: true
 
 ##
 
-![рис.8](image/8.png)
+![рис.11](image/8.png)
 
 ##
 
-![рис.9](image/9.png)
-
+![рис.12](image/9.png)
 
 ## Вывод:
 
